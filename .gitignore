@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TheWorld/bin/Debug/netcoreapp1.1
+/TheWorld/obj
+*.user
